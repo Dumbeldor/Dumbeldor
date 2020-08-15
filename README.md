@@ -3,6 +3,7 @@
 Passionate about game development, driven by open source. I like to work on ambitious and difficult projects to always leave my comfort zone and be confronted with difficulty and therefore push to learn more and more. 
 
 🌱 I’m currently learning rustlang <3
+
 🔭 I’m currently working on a Ninja game :D
 
 <!--
