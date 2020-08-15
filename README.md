@@ -6,7 +6,7 @@ Passionate about game development, driven by open source. I like to work on ambi
 
 🔭 I’m currently working on a Ninja game 😄
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Dumbeldor&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Dumbeldor&show_icons=true&count_private=true)
 
 <!--
 **Dumbeldor/Dumbeldor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
